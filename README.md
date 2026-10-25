@@ -6,7 +6,7 @@
 
 | 安装包 | 大小 | SHA-256 |
 | --- | --- | --- |
-| `gh-vault-1.0.0.zip` | 0.01 MB | `7be7580a249f83684cbb4749ce28aa6fb22946549cceb035fea9797efa1e5938` |
+| `gh-vault-1.0.0.zip` | 9 KB | `7be7580a249f83684cbb4749ce28aa6fb22946549cceb035fea9797efa1e5938` |
 
 在本机加密保存一枚 GitHub 令牌，让昔涟可以代你发 GitHub API 请求，而令牌不会出现在对话或工具返回值里。
 
